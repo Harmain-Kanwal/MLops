@@ -4,3 +4,6 @@ venv/
 predictions_log.csv
 *.log
 .DS_Store
+mlflow.db
+confusion_matrix.png
+feature_importance.png
